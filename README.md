@@ -1,3 +1,45 @@
+# Text Master
+
+Text Master is a web-based text utility app that provides various text manipulation and analysis tools. Whether you need to format, encode, decode, or analyze text, Text Master simplifies the process. It's a one-stop solution for text-related tasks.
+
+## Features
+
+- **Text Transformation**: Convert text to uppercase, lowercase, or title case.
+
+- **Remove Extra Spaces**: Eliminate extra spaces from your text.
+
+- **Character Count**: Get an instant character count for your text.
+
+- **Word Count**: Find out how many words are in your text.
+
+- **Text Analysis**: Analyze the sentiment and readability of text.
+
+- **Base64 Encoding/Decoding**: Encode or decode text in Base64 format.
+
+- **URL Encoding/Decoding**: Encode or decode URLs safely.
+
+## Usage
+
+1. Input or paste your text into the provided text box.
+
+2. Select the desired text manipulation or analysis tool from the menu.
+
+3. Click the "Submit" or "Generate" button to view the results.
+
+## Contributing
+
+Contributions to Text Master are welcome! To contribute:
+
+1. Fork the project.
+
+2. Create a new branch for your feature.
+
+3. Make your changes and commit them.
+
+4. Push your branch to your fork.
+
+5. Create a new Pull Request, describing your changes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
